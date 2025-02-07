@@ -14,5 +14,4 @@ Lee un csv
 
 ## Contact information
 Pablo 
-
-
+Jose Maria Vera Verdezoto :verdezoto.vera@gmail.com
