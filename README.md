@@ -1,7 +1,13 @@
-# Title: student-project v1.0
+# Title: student-project v1.0.0
 
 ## Description
 Lee un csv
+tiene la siguiente estructura:
+src/
+test/
+docs/
+data/
+
 
 ## Installation instructions
 
